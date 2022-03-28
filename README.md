@@ -2,7 +2,7 @@
 ![](./assets/image/screenshotpassword.png)
 
 ## Purpose
-Create a website that is able generate a random password.
+Create a website that is able to generate a random password.
 
 ## Built with
 * HTML
